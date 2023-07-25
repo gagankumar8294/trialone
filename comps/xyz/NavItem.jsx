@@ -6,7 +6,7 @@ const NavItem = ({ text, href, active }) => {
           active ? "active" : ""
         }`}
         {text}
-      
+
     </Link>
   );
 };
